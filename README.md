@@ -1,6 +1,7 @@
 # The-Advanced-Financial-Analysis-Dashboard-project-using-Power-BI.
 
-•	The Advanced Financial Analysis Dashboard in Power BI is a robust reporting solution focused on key financial metrics, including total revenue, average revenue by countrywise, region wise, store wise, and quartly. This dashboard leverages a variety of visualizations such as slicers, treemaps, line charts, KPIs, bar charts, and matrices to provide a comprehensive and interactive analysis of financial performance.
+•	The Advanced Financial Analysis Dashboard in Power BI is a robust reporting solution focused on key financial metrics, including total revenue, average revenue by countrywise, region wise, store wise, and 
+  quartly. This dashboard leverages a variety of visualizations such as slicers, treemaps, line charts, KPIs, bar charts, and matrices to provide a comprehensive and interactive analysis of financial performance.
 •	By using Line chart and KPI, we Illustrates the overall financial health of the organization by displaying the total revenue over time.
 •	By using Treemap and Matrix, we can conclude a geographical breakdown of average revenue, allowing for a comparative analysis of revenue contribution from different countries.
 •	Highlights revenue distribution across various regions, aiding in regional performance assessment and strategic decision-making using Bar chart.
